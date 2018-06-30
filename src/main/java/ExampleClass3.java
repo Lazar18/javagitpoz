@@ -1,5 +1,8 @@
 public class ExampleClass3 {
 //jakis tam komentarz
+    private int x;
+    private int y;
+
 public static void main(String[] args) {
     System.out.println("Hello");
 
